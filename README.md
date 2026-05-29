@@ -25,7 +25,7 @@ Sus funciones principales serán:
 ## Créditos
 
 Desarrollado por: Jesús Gabriel  
-Materia: Programación Orientada a Objetos  
+Materia: Camputacion en JAVA 
 Institución: Universidad Tecmilenio
 
 ## Licencia
