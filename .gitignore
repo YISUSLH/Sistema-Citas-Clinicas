@@ -1,0 +1,14 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales
+*.swp
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
