@@ -1,0 +1,8 @@
+git init
+git branch -M master
+git add .
+git commit -m "Configuración inicial del proyecto"
+git remote add origin https://github.com/USUARIO/Sistema-Citas-Clinicas.git
+git push -u origin master
+git checkout -b develop
+git push -u origin develop
